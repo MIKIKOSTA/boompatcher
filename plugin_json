@@ -1,0 +1,17 @@
+```json
+{
+  "plugins": [
+    {tcher
+      "name": "free_purchase",
+      "display_name": "Free Purchase Patch",
+      "description": "Bypassuje billing metode i omogućava kupovinu bez plaćanja.",
+      "url": "https://yourdomain.com/plugins/free_purchase.py"
+    },
+    {
+      "name": "ads_remover",
+      "display_name": "Ad Remover",
+      "description": "Uklanja reklame i AdMob metode iz smali koda.",
+      "url": "https://yourdomain.com/plugins/ads_remover.py"
+    }
+  ]
+}
