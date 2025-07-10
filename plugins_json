@@ -5,7 +5,7 @@
       "name": "free_purchase",
       "display_name": "Free Purchase Patch",
       "description": "Bypassuje billing metode i omogućava kupovinu bez plaćanja.",
-      "url": "https://yourdomain.com/plugins/free_purchase.py"
+      "url": "https://github.com/MIKIKOSTA/boompatcher/blob/da2693b5e51c8c9232fcbfd69542b1cf1c820fda/free_purchase.py"
     },
     {
       "name": "ads_remover",
