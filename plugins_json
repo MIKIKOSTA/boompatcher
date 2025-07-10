@@ -11,7 +11,7 @@
       "name": "ads_remover",
       "display_name": "Ad Remover",
       "description": "Uklanja reklame i AdMob metode iz smali koda.",
-      "url": "https://yourdomain.com/plugins/ads_remover.py"
+      "url": "https://github.com/MIKIKOSTA/boompatcher/blob/82e57dc0de006bae116a1e8ceed361e41d392318/ads_remover.py"
     }
   ]
 }
